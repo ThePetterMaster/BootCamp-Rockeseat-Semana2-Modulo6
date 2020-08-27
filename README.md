@@ -26,3 +26,7 @@ Configurações de eslint nos scripts
 ``
 yarn add react-router-dom
 ``
+# styled components
+``
+yarn add styled-components
+``
