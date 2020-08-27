@@ -10,7 +10,7 @@ yarn start
 ``
 # Alterações no projeto inicial
 
-Foram tirados os arquivos:
+Foram tirados os arquivos com suas importações:
 
 App.css
 
