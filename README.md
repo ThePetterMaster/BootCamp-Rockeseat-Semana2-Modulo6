@@ -21,3 +21,8 @@ Logo.svg
 Serviceworker.js
 
 Configurações de eslint nos scripts
+
+# Rotas no React
+``
+yarn add react-router-dom
+``
