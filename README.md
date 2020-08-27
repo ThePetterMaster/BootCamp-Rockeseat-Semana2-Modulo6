@@ -19,3 +19,5 @@ Apptest.js
 Logo.svg
 
 Serviceworker.js
+
+Configurações de eslint nos scripts
