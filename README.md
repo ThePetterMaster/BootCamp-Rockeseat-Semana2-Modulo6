@@ -30,3 +30,9 @@ yarn add react-router-dom
 ``
 yarn add styled-components
 ``
+
+# Biblioteca de ícones do react
+``
+yarn add react-icons
+``
+
