@@ -35,4 +35,9 @@ yarn add styled-components
 ``
 yarn add react-icons
 ``
+# Biblioteca para requisições
+
+``
+yarn add axios
+``
 
